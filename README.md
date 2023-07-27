@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaizokuharsha
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c,pyhton.
-- 💞️ I’m looking to collaborate on c,python
+- 👀 I’m interested in Frontend programming and Machine learning
+- 🌱 I’m currently learning Pyhton,javascript and Tensorflow.
+- 💞️ I’m looking to collaborate on python and ML
 - 📫 How to reach me.....
 
 <!---
