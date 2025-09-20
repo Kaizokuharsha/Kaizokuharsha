@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kaizokuharsha
-- 👀 I’m interested in Frontend programming and Machine learning
-- 🌱 I’m currently learning Pyhton and javascript.
-- 💞️ I’m looking to collaborate on Frontend,JavaScript and python.
+- 👀 I’m interested in programming and ML, AI and Automations
+- 🌱 I’m currently working with N8N and Workato
+- 💞️ I’m looking to collaborate on above tools.
 - 📫 How to reach me.....https://www.linkedin.com/in/swarna-harsha-majety
 
 <!---
